@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\User files\Study\CLionProjects\EngineX 3D"
+-- Found SFML 2.5.1 in E:/User files/Study/CLionProjects/lib/SFML/GCC 7.3.0 MinGW (SEH) - 64-bit/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/User files/Study/CLionProjects/EngineX 3D/cmake-build-debug
