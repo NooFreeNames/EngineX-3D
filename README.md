@@ -1,6 +1,6 @@
 # EngineX 3D
 
-[![EngineX 3D Demo](engine.gif)](https://youtu.be/kjdEqVCpwhQ )
+[![EngineX 3D Demo](https://github.com/NooFreeNames/EngineX-3D/blob/main/engine.gif?raw=true)](https://youtu.be/kjdEqVCpwhQ )
 
 Программа реализует простейший псевдо 3D движок, написанный на C++ и использующий библиотеку SFML.
 
